@@ -6,4 +6,4 @@ A simple website translation manager. `wt.js` contains the code, `index.html` is
 
 ---
 
-License: MIT
+License: LGPL
